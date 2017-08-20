@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomPasswordTextInput renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "borderColor": undefined,
+      "borderRadius": 5,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 40,
+      "justifyContent": "flex-start",
+      "margin": 10,
+      "marginTop": 40,
+      "padding": 5,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 4,
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Password"
+      placeholderTextColor={undefined}
+      secureTextEntry={true}
+      style={
+        Object {
+          "color": undefined,
+          "fontSize": undefined,
+          "height": 40,
+        }
+      }
+      underlineColorAndroid="transparent"
+      value="Password112"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": "transparent",
+        "flex": 1,
+        "justifyContent": "flex-end",
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      onPress={[Function]}
+      suppressHighlighting={true}
+    >
+       
+      SHOW
+    </Text>
+  </View>
+</View>
+`;

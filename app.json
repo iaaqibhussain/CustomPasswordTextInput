@@ -1,0 +1,14 @@
+
+{
+  "expo": {
+   "name": "CustomPasswordTextInput",
+   "version": "1.0.0",
+   "sdkVersion": "19.0.0",
+   "ios": {
+     "bundleIdentifier": "com.kodesnippets.CustomPasswordTextInput"
+   },
+   "android": {
+     "package": "com.kodesnippets.CustomPasswordTextInput"
+   }
+  }
+}
