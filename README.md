@@ -117,4 +117,8 @@ Sets the height of the CustomPasswordTextInput, default is 40.
 
 This project was developed using [Create React Native App](https://github.com/react-community/create-react-native-app).
 
+<hr>
 
+## Demo
+
+Check out the demo [here](https://expo.io/@iaaqibhussain/custompasswordtextinput).
